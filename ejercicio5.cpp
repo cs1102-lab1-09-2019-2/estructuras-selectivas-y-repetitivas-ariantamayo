@@ -14,4 +14,5 @@ int main() {
         sumax += pow(temp, 2);
     }
     cout<<"la desviación estándar es: "<<fixed<<setprecision(2)<<sqrt(sumax/cant - pow(suma/cant,2));
+    return 0;
 }
