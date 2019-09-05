@@ -1,13 +1,13 @@
 # Ejercicios de estructura de control 2
 ## Selectivas y Repetitivas
 
-Nombre:
+Nombre:Arian Tamayo
 --
 
-Github Username:
+Github Username:ariantamayo
 --
 
-Instrucciones:
+Instrucciones: cuackk
 --
 Resolver los ejercicios de [estructuras de control selectiva y repetitiva](https://github.com/cs1102-lab1-09-2019-2/oop1_structure_control_2_template/blob/master/Ejercicios_estructuras_de_control.PDF).
 
